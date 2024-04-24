@@ -29,7 +29,7 @@ A continuación se detallan los pasos necesarios para utilizar la aplicación Pr
 
 3. **Selección de la Cámara**: Seleccione la cámara de su dispositivo que registrará al entrevistador. Esto requiere seleccionar una opción específica dentro de la interfaz de usuario que indique las cámaras disponibles detectadas en su dispositivo.
 
-4. **Inicio de la Detección**: Presione el botón **```Iniciar Detección```** (o similar) para iniciar el proceso de detección de gestos faciales y análisis de veracidad.
+4. **Inicio de la Detección**: Presione el botón **```Iniciar Detección```** para iniciar el proceso de detección de gestos faciales y análisis de veracidad.
 
 5. **Posicionamiento del Entrevistador**: Una vez que se abra la cámara y aparezca el cuadro de diálogo que muestra el porcentaje de verdad, ubique al entrevistador a una distancia entre 30 y 40 centímetros de la cámara. Sabrá que está en la posición correcta cuando el indicador de verdad alcance un porcentaje del 100%.
 
