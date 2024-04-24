@@ -43,7 +43,7 @@ A continuación se detallan los pasos necesarios para utilizar la aplicación Pr
 
 ## Contacto
 
-Para más información o preguntas sobre el proyecto, puede contactar al equipo de desarrollo en [andres.julian.gonzalez@correounivalle.edu.co](mailto:andres.julian.gonzalez@correounivalle.edu.co).
+Para más información o preguntas sobre el proyecto, puede contactar a [andres.julian.gonzalez@correounivalle.edu.co](mailto:andres.julian.gonzalez@correounivalle.edu.co).
 
 ---
 *Creado por: Andres Julian Gonzalez*    
