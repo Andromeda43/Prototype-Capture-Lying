@@ -47,6 +47,5 @@ Para más información o preguntas sobre el proyecto, puede contactar a [andres.
 
 ---
 *Creado por: Andres Julian Gonzalez*    
-*Est. Ingenieria de Sistemas*
-*Universidad del Valle* 
+*Est. Ingenieria de Sistemas - Universidad del Valle* 
 
